@@ -1,2 +1,0 @@
-# ChallengeBlockinar
-Created with CodeSandbox
